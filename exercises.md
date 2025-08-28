@@ -1,8 +1,13 @@
-IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important files. Start with:
-1) mkdir -p ~/cli_sandbox
-2) cd ~/cli_sandbox
+IMPORTANT: Do ALL exercises inside ~/cli\_sandbox to avoid changing important files. Start with:
+
+1. mkdir -p ~/cli\_sandbox
+2. cd ~/cli\_sandbox
 
 1: Create a file called "evaluate.txt".
+
+&nbsp; - touch evaluate.txt
+
+&nbsp;   - creating an empty file
 
 2: Output hidden files.
 
@@ -36,9 +41,9 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 17: Delete the last file you created.
 
-18: Move one level up (stay inside "cli_sandbox").
+18: Move one level up (stay inside "cli\_sandbox").
 
-19: Move two folders up (but never leave "cli_sandbox").
+19: Move two folders up (but never leave "cli\_sandbox").
 
 20: Output hidden files.
 
@@ -46,7 +51,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 22: Delete the last folder you created.
 
-23: Move one level up (stay inside "cli_sandbox").
+23: Move one level up (stay inside "cli\_sandbox").
 
 24: Use: echo "advice architecture rain surprise sister" > "discover.txt" to create or overwrite "discover.txt".
 
@@ -56,7 +61,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 27: Create a file called "honor.txt" and immediately delete it.
 
-28: If already inside "cli_sandbox", create a directory "shallow" and move into the directory.
+28: If already inside "cli\_sandbox", create a directory "shallow" and move into the directory.
 
 29: Create a file "appreciate.txt" containing: "shallow pray shallow nerve shallow". Then output the unique lines.
 
@@ -64,9 +69,9 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 31: Delete the last file you created.
 
-32: Move one level up (stay inside "cli_sandbox").
+32: Move one level up (stay inside "cli\_sandbox").
 
-33: If already inside "cli_sandbox", create a directory "identity" and move into the directory.
+33: If already inside "cli\_sandbox", create a directory "identity" and move into the directory.
 
 34: Create a file "difficulty.txt" containing: "plane rider difficulty needle shallow". Then search recursively for "difficulty".
 
@@ -90,15 +95,15 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 44: Create a file called "on.txt" and immediately delete it.
 
-45: Move two folders up (but never leave "cli_sandbox").
+45: Move two folders up (but never leave "cli\_sandbox").
 
 46: Create a file called "support.txt".
 
 47: Create a file "recommend.txt" containing: "hill interference speculate recommend on". Then search recursively for "recommend".
 
-48: Move one level up (stay inside "cli_sandbox").
+48: Move one level up (stay inside "cli\_sandbox").
 
-49: Create a folder named "cli_sandbox".
+49: Create a folder named "cli\_sandbox".
 
 50: Create a file "relative.txt" containing: "cater relative hill needle proportion". Then search recursively for "relative".
 
@@ -106,21 +111,21 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 52: Output the sizes of the files in the directory.
 
-53: Change directory to "cli_sandbox".
+53: Change directory to "cli\_sandbox".
 
 54: Open a file in the terminal and see the content.
 
-55: Create a folder named "cli_sandbox".
+55: Create a folder named "cli\_sandbox".
 
-56: Move two folders up (but never leave "cli_sandbox").
+56: Move two folders up (but never leave "cli\_sandbox").
 
 57: Create a file "speculate.txt" containing: "hill salvation hill advice hill". Then output the sorted lines.
 
 58: Create a file called "pioneer.txt" containing these words (one per line): "difficulty appreciate difficulty responsibility difficulty". Then count the lines.
 
-59: If already inside "cli_sandbox", create a directory "pray" and move into the directory.
+59: If already inside "cli\_sandbox", create a directory "pray" and move into the directory.
 
-60: If already inside "cli_sandbox", create a directory "difficulty" and move into the directory.
+60: If already inside "cli\_sandbox", create a directory "difficulty" and move into the directory.
 
 61: Write something in a file called "panel.txt".
 
@@ -128,9 +133,9 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 63: Delete the last folder you created.
 
-64: Change directory to "cli_sandbox".
+64: Change directory to "cli\_sandbox".
 
-65: Move two folders up (but never leave "cli_sandbox").
+65: Move two folders up (but never leave "cli\_sandbox").
 
 66: Delete the last folder you created.
 
@@ -152,23 +157,23 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 75: Create a file "pioneer.txt" containing: "architecture pioneer on discover pen". Then search recursively for "pioneer".
 
-76: Create a folder named "cli_sandbox".
+76: Create a folder named "cli\_sandbox".
 
 77: Create a file "cater.txt" containing: "depression evaluate depression discover depression". Then output the sorted lines.
 
-78: Move two folders up (but never leave "cli_sandbox").
+78: Move two folders up (but never leave "cli\_sandbox").
 
 79: Delete the last file you created.
 
 80: Output who the active user is.
 
-81: Move two folders up (but never leave "cli_sandbox").
+81: Move two folders up (but never leave "cli\_sandbox").
 
 82: Output who the active user is.
 
 83: Open a file in the terminal and see the content.
 
-84: Create a folder named "cli_sandbox".
+84: Create a folder named "cli\_sandbox".
 
 85: If there are any directories in the current folder, then move inside any one of them.
 
@@ -186,7 +191,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 92: Delete the last file you created.
 
-93: If already inside "cli_sandbox", create a directory "support" and move into the directory.
+93: If already inside "cli\_sandbox", create a directory "support" and move into the directory.
 
 94: Delete the last folder you created.
 
@@ -230,7 +235,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 114: Create two directories "sister" and "pioneer" and move into "pioneer".
 
-115: Create a folder named "cli_sandbox".
+115: Create a folder named "cli\_sandbox".
 
 116: Create a file "cater.txt" containing: "interference shot interference difficulty interference". Then output the sorted lines.
 
@@ -240,9 +245,9 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 119: Output hidden files.
 
-120: Move one level up (stay inside "cli_sandbox").
+120: Move one level up (stay inside "cli\_sandbox").
 
-121: Move one level up (stay inside "cli_sandbox").
+121: Move one level up (stay inside "cli\_sandbox").
 
 122: Use: echo "degree honor regret depression terminal" > "ditch.txt" to create or overwrite "ditch.txt".
 
@@ -280,21 +285,21 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 139: Output the content of any file in the directory.
 
-140: If already inside "cli_sandbox", create a directory "interference" and move into the directory.
+140: If already inside "cli\_sandbox", create a directory "interference" and move into the directory.
 
-141: Change directory to "cli_sandbox".
+141: Change directory to "cli\_sandbox".
 
-142: Create a folder named "cli_sandbox".
+142: Create a folder named "cli\_sandbox".
 
 143: Use: echo "difficulty recession ethics proportion hill" > "speculate.txt" to create or overwrite "speculate.txt".
 
 144: Output what's in the directory.
 
-145: Move one level up (stay inside "cli_sandbox").
+145: Move one level up (stay inside "cli\_sandbox").
 
-146: Create a folder named "cli_sandbox".
+146: Create a folder named "cli\_sandbox".
 
-147: Create a folder named "cli_sandbox".
+147: Create a folder named "cli\_sandbox".
 
 148: Delete the last folder you created.
 
@@ -304,15 +309,15 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 151: Output the full path you are on.
 
-152: Move two folders up (but never leave "cli_sandbox").
+152: Move two folders up (but never leave "cli\_sandbox").
 
-153: Move two folders up (but never leave "cli_sandbox").
+153: Move two folders up (but never leave "cli\_sandbox").
 
-154: Create a folder named "cli_sandbox".
+154: Create a folder named "cli\_sandbox".
 
 155: Output what's in the directory.
 
-156: Move one level up (stay inside "cli_sandbox").
+156: Move one level up (stay inside "cli\_sandbox").
 
 157: Use: echo "plane recommend support surprise pen" > "needle.txt" to create or overwrite "needle.txt".
 
@@ -320,7 +325,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 159: Write something in a file called "relative.txt".
 
-160: Change directory to "cli_sandbox".
+160: Change directory to "cli\_sandbox".
 
 161: Create a file called "depression.txt" containing these words (one per line): "terminal sister terminal stock terminal". Then count the lines.
 
@@ -334,11 +339,11 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 166: Delete the last folder you created.
 
-167: Create a folder named "cli_sandbox".
+167: Create a folder named "cli\_sandbox".
 
 168: Delete the last file you created.
 
-169: Move one level up (stay inside "cli_sandbox").
+169: Move one level up (stay inside "cli\_sandbox").
 
 170: Output what's in the directory.
 
@@ -346,7 +351,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 172: Output hidden files.
 
-173: Move one level up (stay inside "cli_sandbox").
+173: Move one level up (stay inside "cli\_sandbox").
 
 174: If there are any directories in the current folder, then move inside any one of them.
 
@@ -378,7 +383,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 188: Create a file called "panel.txt".
 
-189: Create a folder named "cli_sandbox".
+189: Create a folder named "cli\_sandbox".
 
 190: Write something in a file called "rain.txt".
 
@@ -398,7 +403,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 198: Create a file called "responsibility.txt" and immediately delete it.
 
-199: Create a folder named "cli_sandbox".
+199: Create a folder named "cli\_sandbox".
 
 200: Output the full path you are on.
 
@@ -408,7 +413,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 203: Create a file called "difficulty.txt" and immediately delete it.
 
-204: Move two folders up (but never leave "cli_sandbox").
+204: Move two folders up (but never leave "cli\_sandbox").
 
 205: If there are any directories in the current folder, then move inside any one of them.
 
@@ -418,7 +423,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 208: Create a directory "proportion" and then delete it.
 
-209: If already inside "cli_sandbox", create a directory "speculate" and move into the directory.
+209: If already inside "cli\_sandbox", create a directory "speculate" and move into the directory.
 
 210: Open a file in the terminal and see the content.
 
@@ -432,11 +437,11 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 215: Output the content of any file in the directory.
 
-216: Move one level up (stay inside "cli_sandbox").
+216: Move one level up (stay inside "cli\_sandbox").
 
 217: Output the content of any file in the directory.
 
-218: Move one level up (stay inside "cli_sandbox").
+218: Move one level up (stay inside "cli\_sandbox").
 
 219: Create a file "medal.txt" containing: "hill shallow pioneer panel medal". Then search recursively for "medal".
 
@@ -446,7 +451,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 222: Create a file "terminal.txt" containing: "recommend banish recommend speculate recommend". Then output the sorted lines.
 
-223: If already inside "cli_sandbox", create a directory "difficulty" and move into the directory.
+223: If already inside "cli\_sandbox", create a directory "difficulty" and move into the directory.
 
 224: Output hidden files.
 
@@ -472,15 +477,15 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 235: Create a directory "rider" and then delete it.
 
-236: Change directory to "cli_sandbox".
+236: Change directory to "cli\_sandbox".
 
-237: Move two folders up (but never leave "cli_sandbox").
+237: Move two folders up (but never leave "cli\_sandbox").
 
-238: Move two folders up (but never leave "cli_sandbox").
+238: Move two folders up (but never leave "cli\_sandbox").
 
 239: Output the sizes of the files in the directory.
 
-240: Change directory to "cli_sandbox".
+240: Change directory to "cli\_sandbox".
 
 241: Create a file called "terminal.txt" and immediately delete it.
 
@@ -498,7 +503,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 248: Output what's in the directory.
 
-249: If already inside "cli_sandbox", create a directory "correspondence" and move into the directory.
+249: If already inside "cli\_sandbox", create a directory "correspondence" and move into the directory.
 
 250: Use: echo "support rider stock ditch panel" > "on.txt" to create or overwrite "on.txt".
 
@@ -508,11 +513,11 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 253: Create a file "evaluate.txt" containing: "terminal shot architecture support evaluate". Then search recursively for "evaluate".
 
-254: If already inside "cli_sandbox", create a directory "ethics" and move into the directory.
+254: If already inside "cli\_sandbox", create a directory "ethics" and move into the directory.
 
 255: Create a file called "panel.txt".
 
-256: Move two folders up (but never leave "cli_sandbox").
+256: Move two folders up (but never leave "cli\_sandbox").
 
 257: Write something in a file called "ethics.txt".
 
@@ -534,17 +539,17 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 266: Delete the last file you created.
 
-267: If already inside "cli_sandbox", create a directory "support" and move into the directory.
+267: If already inside "cli\_sandbox", create a directory "support" and move into the directory.
 
-268: If already inside "cli_sandbox", create a directory "medal" and move into the directory.
+268: If already inside "cli\_sandbox", create a directory "medal" and move into the directory.
 
-269: Create a folder named "cli_sandbox".
+269: Create a folder named "cli\_sandbox".
 
 270: Create a file "identity.txt" containing: "recession surprise recession pen recession". Then output the unique lines.
 
-271: Create a folder named "cli_sandbox".
+271: Create a folder named "cli\_sandbox".
 
-272: If already inside "cli_sandbox", create a directory "cousin" and move into the directory.
+272: If already inside "cli\_sandbox", create a directory "cousin" and move into the directory.
 
 273: Create a file called "identity.txt" containing these words (one per line): "pray stock pray correspondence pray". Then count the lines.
 
@@ -562,17 +567,17 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 280: Open a file in the terminal and see the content.
 
-281: Change directory to "cli_sandbox".
+281: Change directory to "cli\_sandbox".
 
 282: Create a directory "ditch" and then delete it.
 
 283: Open a file in the terminal and see the content.
 
-284: If already inside "cli_sandbox", create a directory "evaluate" and move into the directory.
+284: If already inside "cli\_sandbox", create a directory "evaluate" and move into the directory.
 
 285: If there are any directories in the current folder, then move inside any one of them.
 
-286: Move one level up (stay inside "cli_sandbox").
+286: Move one level up (stay inside "cli\_sandbox").
 
 287: Delete the last file you created.
 
@@ -584,9 +589,9 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 291: Open a file in the terminal and see the content.
 
-292: Move one level up (stay inside "cli_sandbox").
+292: Move one level up (stay inside "cli\_sandbox").
 
-293: Move two folders up (but never leave "cli_sandbox").
+293: Move two folders up (but never leave "cli\_sandbox").
 
 294: Create a file called "architecture.txt" and immediately delete it.
 
@@ -608,17 +613,17 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 303: Output who the active user is.
 
-304: Move one level up (stay inside "cli_sandbox").
+304: Move one level up (stay inside "cli\_sandbox").
 
 305: Create two directories "sister" and "advice" and move into "advice".
 
-306: Move two folders up (but never leave "cli_sandbox").
+306: Move two folders up (but never leave "cli\_sandbox").
 
 307: Open a file in the terminal and see the content.
 
 308: Delete the last file you created.
 
-309: Move one level up (stay inside "cli_sandbox").
+309: Move one level up (stay inside "cli\_sandbox").
 
 310: Output hidden files.
 
@@ -628,7 +633,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 313: If there are any directories in the current folder, then move inside any one of them.
 
-314: If already inside "cli_sandbox", create a directory "rider" and move into the directory.
+314: If already inside "cli\_sandbox", create a directory "rider" and move into the directory.
 
 315: Open a file in the terminal and see the content.
 
@@ -636,7 +641,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 317: Open a file in the terminal and see the content.
 
-318: Move two folders up (but never leave "cli_sandbox").
+318: Move two folders up (but never leave "cli\_sandbox").
 
 319: Create a file "regret.txt" containing: "experienced cater experienced pray experienced". Then output the unique lines.
 
@@ -644,7 +649,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 321: Create a file "correspondence.txt" containing: "recession hill recession experienced recession". Then output the sorted lines.
 
-322: Change directory to "cli_sandbox".
+322: Change directory to "cli\_sandbox".
 
 323: Delete the last file you created.
 
@@ -652,7 +657,7 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 325: Create a file "on.txt" containing: "medal depression on sister recession". Then search recursively for "on".
 
-326: Move one level up (stay inside "cli_sandbox").
+326: Move one level up (stay inside "cli\_sandbox").
 
 327: Create a file called "regret.txt".
 
@@ -660,19 +665,19 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 329: Output the full path you are on.
 
-330: Create a folder named "cli_sandbox".
+330: Create a folder named "cli\_sandbox".
 
 331: Write something in a file called "plane.txt".
 
 332: Write something in a file called "appreciate.txt".
 
-333: Change directory to "cli_sandbox".
+333: Change directory to "cli\_sandbox".
 
 334: Delete the last folder you created.
 
-335: If already inside "cli_sandbox", create a directory "cater" and move into the directory.
+335: If already inside "cli\_sandbox", create a directory "cater" and move into the directory.
 
-336: Create a folder named "cli_sandbox".
+336: Create a folder named "cli\_sandbox".
 
 337: Write something in a file called "salvation.txt".
 
@@ -682,23 +687,23 @@ IMPORTANT: Do ALL exercises inside ~/cli_sandbox to avoid changing important fil
 
 340: Create a file "rain.txt" containing: "rain speculate advantage pray rain". Then search recursively for "rain".
 
-341: If already inside "cli_sandbox", create a directory "nerve" and move into the directory.
+341: If already inside "cli\_sandbox", create a directory "nerve" and move into the directory.
 
-342: Change directory to "cli_sandbox".
+342: Change directory to "cli\_sandbox".
 
 343: Create a file "nerve.txt" containing: "ditch depression ditch appreciate ditch". Then output the sorted lines.
 
 344: Output hidden files.
 
-345: If already inside "cli_sandbox", create a directory "cater" and move into the directory.
+345: If already inside "cli\_sandbox", create a directory "cater" and move into the directory.
 
-346: Create a folder named "cli_sandbox".
+346: Create a folder named "cli\_sandbox".
 
-347: Move two folders up (but never leave "cli_sandbox").
+347: Move two folders up (but never leave "cli\_sandbox").
 
 348: Create a file "degree.txt" containing: "shot hill shot honor shot". Then output the sorted lines.
 
-349: Move one level up (stay inside "cli_sandbox").
+349: Move one level up (stay inside "cli\_sandbox").
 
 350: Output who the active user is.
 

@@ -1,5 +1,7 @@
 
 
+
+
 IMPORTANT: Do ALL exercises inside ~/cli\_sandbox to avoid changing important files. Start with:
 
 1. mkdir -p ~/cli\_sandbox
@@ -110,8 +112,9 @@ pwd
 
 26: Create a file called "honor.txt" containing these words (one per line): "relative rider relative discover relative". Then count the lines.
 
-echo -e "relative\nrider\nrelative\ndiscover\nrelative" > honor.txt
-wc -l honor.txt
+echo -e "relative\nrider\nrelative\ndiscover\nrelative" > honor.txt  
+wc -l honor.txt  
+  
 
 27: Create a file called "honor.txt" and immediately delete it.
 

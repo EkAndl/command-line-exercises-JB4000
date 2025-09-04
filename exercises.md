@@ -116,35 +116,57 @@ echo -e "relative\nrider\nrelative\ndiscover\nrelative" > honor.txt
 wc -l honor.txt  
   
 
-27: Create a file called "honor.txt" and immediately delete it.
+27: Create a file called "honor.txt" and immediately delete it.  
+touch honor.txt; rm honor.txt  
 
-28: If already inside "cli\_sandbox", create a directory "shallow" and move into the directory.
+28: If already inside "cli\_sandbox", create a directory "shallow" and move into the directory.  
+mkdir shallow  
+cd shallow  
+  
 
-29: Create a file "appreciate.txt" containing: "shallow pray shallow nerve shallow". Then output the unique lines.
+29: Create a file "appreciate.txt" containing: "shallow pray shallow nerve shallow". Then output the unique lines.  
+echo "shallow pray shallow nerve shallow" > appreciate.txt  
+tr -s ' ' '\n' < appreciate.txt | sort -u  
+  
+This shows the unique words instead of unique lines, of which there is only one.  
+I did this for the purpose of variation.  
+  
+30: Delete the last file you created.  
+rm "$(ls -t --time=creation | head -1)"  
+  
+31: Delete the last file you created.  
+rm "$(ls -t --time=creation | head -1)"  
+  
+32: Move one level up (stay inside "cli\_sandbox").  
+cd ..  
+  
+33: If already inside "cli\_sandbox", create a directory "identity" and move into the directory.  
+mkdir identity; cd identity  
+  
+34: Create a file "difficulty.txt" containing: "plane rider difficulty needle shallow". Then search recursively for "difficulty".  
+echo "plane rider difficulty needle shallow" > difficulty.txt  
+grep -r difficulty  
+  
+35: Create a file called "difficulty.txt" and immediately delete it.  
+touch difficulty.txt; rm difficulty.txt  
+  
+36: Output the full path you are on.  
+pwd  
+  
+37: Create two directories "cousin" and "sister" and move into "sister".  
+mkdir cousin sister; cd sister  
+  
+38: Output hidden files.  
+ls -la  
+  
+39: Output the full path you are on.  
+pwd  
+  
+40: Output the full path you are on.  
+pwd  
+  
+41: Output the content of any file in the directory.  
 
-30: Delete the last file you created.
-
-31: Delete the last file you created.
-
-32: Move one level up (stay inside "cli\_sandbox").
-
-33: If already inside "cli\_sandbox", create a directory "identity" and move into the directory.
-
-34: Create a file "difficulty.txt" containing: "plane rider difficulty needle shallow". Then search recursively for "difficulty".
-
-35: Create a file called "difficulty.txt" and immediately delete it.
-
-36: Output the full path you are on.
-
-37: Create two directories "cousin" and "sister" and move into "sister".
-
-38: Output hidden files.
-
-39: Output the full path you are on.
-
-40: Output the full path you are on.
-
-41: Output the content of any file in the directory.
 
 42: Delete the last file you created.
 

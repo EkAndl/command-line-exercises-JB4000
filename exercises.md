@@ -166,26 +166,41 @@ pwd
 pwd  
   
 41: Output the content of any file in the directory.  
-
-
-42: Delete the last file you created.
-
-43: Create a directory "cousin" and then delete it.
-
-44: Create a file called "on.txt" and immediately delete it.
-
-45: Move two folders up (but never leave "cli\_sandbox").
-
-46: Create a file called "support.txt".
-
-47: Create a file "recommend.txt" containing: "hill interference speculate recommend on". Then search recursively for "recommend".
-
-48: Move one level up (stay inside "cli\_sandbox").
-
-49: Create a folder named "cli\_sandbox".
-
-50: Create a file "relative.txt" containing: "cater relative hill needle proportion". Then search recursively for "relative".
-
+`cat test_fil_1.txt`  
+  
+42: Delete the last file you created.  
+`ls -rtl --time=creation'  
+    - The file shown last in the display is the most recently created  
+'rm [file]'  
+  
+43: Create a directory "cousin" and then delete it.  
+`mkdir cousin`    
+`rm -r cousin`  
+  
+44: Create a file called "on.txt" and immediately delete it.  
+`touch on.txt; rm on.txt`  
+  
+45: Move two folders up (but never leave "cli\_sandbox").  
+`cd ../..`  
+  
+46: Create a file called "support.txt".  
+`touch support.txt`  
+  
+47: Create a file "recommend.txt" containing: "hill interference speculate recommend on". Then search recursively for "recommend".  
+`echo "hill interference speculate recommend on" > recommend.txt  
+grep -r "recommend" .`  
+  
+48: Move one level up (stay inside "cli\_sandbox").  
+`cd ..`  
+  
+49: Create a folder named "cli\_sandbox".  
+`mkdir cli\_sandbox`  
+       - backslash is ignored. Folder is named cli_sandbox  
+  
+50: Create a file "relative.txt" containing: "cater relative hill needle proportion". Then search recursively for "relative".  
+`echo "cater relative hill needle proportion" > relative.txt`
+`grep -r "relative" .'  
+  
 51: Output the content of any file in the directory.
 
 52: Output the sizes of the files in the directory.

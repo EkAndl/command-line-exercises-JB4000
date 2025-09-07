@@ -169,9 +169,9 @@ pwd
 `cat test_fil_1.txt`  
   
 42: Delete the last file you created.  
-`ls -rtl --time=creation'  
+`ls -rtl --time=creation`  
     - The file shown last in the display is the most recently created  
-'rm [file]'  
+`rm [file]`  
   
 43: Create a directory "cousin" and then delete it.  
 `mkdir cousin`    
@@ -187,19 +187,18 @@ pwd
 `touch support.txt`  
   
 47: Create a file "recommend.txt" containing: "hill interference speculate recommend on". Then search recursively for "recommend".  
-`echo "hill interference speculate recommend on" > recommend.txt  
-grep -r "recommend" .`  
+`echo "hill interference speculate recommend on" > recommend.txt`  
+`grep -r "recommend" .`  
   
 48: Move one level up (stay inside "cli\_sandbox").  
 `cd ..`  
   
 49: Create a folder named "cli\_sandbox".  
-`mkdir cli\_sandbox`  
-       - backslash is ignored. Folder is named cli_sandbox  
+`mkdir cli_sandbox`  
   
 50: Create a file "relative.txt" containing: "cater relative hill needle proportion". Then search recursively for "relative".  
 `echo "cater relative hill needle proportion" > relative.txt`
-`grep -r "relative" .'  
+`grep -r "relative" .`  
   
 51: Output the content of any file in the directory.
 
